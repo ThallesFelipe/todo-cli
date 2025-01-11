@@ -36,7 +36,7 @@ Este projeto é um **Todo CLI** (Command Line Interface) escrito em [Rust](https
 
 2. **Clone** ou **faça o download** deste repositório:
    ```bash
-   git clone https://github.com/seu-usuario/todo_cli.git
+   git clone https://github.com/ThallesFelipe/todo_cli.git
    cd todo_cli
    ```
 
